@@ -11,7 +11,12 @@ For teams that want prepared disclosure replies and an operating workflow:
 - [Three-message English/Spanish response pack — 10 USDC on Base](https://agentwallet.fluxapay.xyz/pay/paymentlink/pl_u_6MTdr8SsjSLDTbROvpayFq): report received, safe clarification, and status or closure.
 - [Complete six-template English/Spanish kit — 25 USDC on Base](https://agentwallet.fluxapay.xyz/pay/paymentlink/pl_jMslZWL_-01b4e6Xxv7SpYxr): scope, safe test plan, report, triage, remediation, and security contact page.
 
-FluxA delivers the text resource after confirmed payment. Checkout requires sign-in. The generator and guides below remain free.
+Human checkout requires FluxA sign-in. An x402-compatible agent can use these direct payment endpoints instead. Each requests the listed USDC amount on Base and returns the text resource after confirmed payment; the payer's wallet must authorize its own spend.
+
+- Response pack: [x402 payment endpoint](https://walletapi.fluxapay.xyz/paymentlink/pl_u_6MTdr8SsjSLDTbROvpayFq)
+- Complete kit: [x402 payment endpoint](https://walletapi.fluxapay.xyz/paymentlink/pl_jMslZWL_-01b4e6Xxv7SpYxr)
+
+The generator and guides below remain free.
 
 ## What it does
 
@@ -66,6 +71,11 @@ También puedes consultar la [guía bilingüe para responder reportes de vulnera
 - [Paquete de tres respuestas bilingües — 10 USDC en Base](https://agentwallet.fluxapay.xyz/pay/paymentlink/pl_u_6MTdr8SsjSLDTbROvpayFq): recepción del reporte, aclaración segura y actualización o cierre.
 - [Kit completo de seis plantillas bilingües — 25 USDC en Base](https://agentwallet.fluxapay.xyz/pay/paymentlink/pl_jMslZWL_-01b4e6Xxv7SpYxr): alcance, plan de prueba seguro, reporte, triaje, corrección y página de contacto.
 
-FluxA entrega el recurso de texto después de confirmar el pago. El checkout requiere iniciar sesión. El generador y las guías mencionadas arriba son gratis.
+El checkout web requiere iniciar sesión en FluxA. Un agente compatible con x402 puede usar estos endpoints directos. Cada uno solicita el monto indicado en USDC por Base y entrega el recurso de texto después de confirmar el pago; la wallet pagadora debe autorizar su propio gasto.
+
+- Paquete de respuestas: [endpoint de pago x402](https://walletapi.fluxapay.xyz/paymentlink/pl_u_6MTdr8SsjSLDTbROvpayFq)
+- Kit completo: [endpoint de pago x402](https://walletapi.fluxapay.xyz/paymentlink/pl_jMslZWL_-01b4e6Xxv7SpYxr)
+
+El generador y las guías mencionadas arriba siguen siendo gratis.
 
 Consulta la [guía gratuita de alcance de divulgación](https://indie-saas-security-kit.edisoncristoferlopez.chatgpt.site/vulnerability-disclosure-scope-guide.html) y el [kit bilingüe de seguridad](https://indie-saas-security-kit.edisoncristoferlopez.chatgpt.site/).
