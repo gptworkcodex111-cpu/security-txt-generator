@@ -8,8 +8,8 @@ A small, standalone browser tool for creating a basic RFC 9116 `security.txt` fi
 
 For teams that want prepared disclosure replies and an operating workflow:
 
-- [Three-message English/Spanish response pack — 10 USDC on Base](https://walletapi.fluxapay.xyz/paymentlink/pl_u_6MTdr8SsjSLDTbROvpayFq): report received, safe clarification, and status or closure.
-- [Complete six-template English/Spanish kit — 25 USDC on Base](https://walletapi.fluxapay.xyz/paymentlink/pl_jMslZWL_-01b4e6Xxv7SpYxr): scope, safe test plan, report, triage, remediation, and security contact page.
+- [Three-message English/Spanish response pack — 10 USDC on Base](https://agentwallet.fluxapay.xyz/pay/paymentlink/pl_u_6MTdr8SsjSLDTbROvpayFq): report received, safe clarification, and status or closure.
+- [Complete six-template English/Spanish kit — 25 USDC on Base](https://agentwallet.fluxapay.xyz/pay/paymentlink/pl_jMslZWL_-01b4e6Xxv7SpYxr): scope, safe test plan, report, triage, remediation, and security contact page.
 
 FluxA delivers the text resource after confirmed payment. Checkout requires sign-in. The generator and guides below remain free.
 
@@ -52,8 +52,8 @@ Revisa el archivo antes de publicarlo. Sustituye el contacto de ejemplo y compru
 
 ### Plantillas opcionales de pago
 
-- [Paquete de tres respuestas bilingües — 10 USDC en Base](https://walletapi.fluxapay.xyz/paymentlink/pl_u_6MTdr8SsjSLDTbROvpayFq): recepción del reporte, aclaración segura y actualización o cierre.
-- [Kit completo de seis plantillas bilingües — 25 USDC en Base](https://walletapi.fluxapay.xyz/paymentlink/pl_jMslZWL_-01b4e6Xxv7SpYxr): alcance, plan de prueba seguro, reporte, triaje, corrección y página de contacto.
+- [Paquete de tres respuestas bilingües — 10 USDC en Base](https://agentwallet.fluxapay.xyz/pay/paymentlink/pl_u_6MTdr8SsjSLDTbROvpayFq): recepción del reporte, aclaración segura y actualización o cierre.
+- [Kit completo de seis plantillas bilingües — 25 USDC en Base](https://agentwallet.fluxapay.xyz/pay/paymentlink/pl_jMslZWL_-01b4e6Xxv7SpYxr): alcance, plan de prueba seguro, reporte, triaje, corrección y página de contacto.
 
 FluxA entrega el recurso de texto después de confirmar el pago. El checkout requiere iniciar sesión. El generador y las guías mencionadas arriba son gratis.
 
