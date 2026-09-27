@@ -10,7 +10,7 @@ Para un servicio web, usa esta ruta:
 https://ejemplo.com/.well-known/security.txt
 ```
 
-El archivo debe servirse por HTTPS, como texto plano UTF-8. La ruta `/.well-known/` es la ubicación definida por RFC 9116. Puedes conservar `/security.txt` por compatibilidad, pero si lo haces, redirígelo a la ruta `/.well-known/`.
+El archivo debe servirse por HTTPS, como texto plano UTF-8. La ruta `/.well-known/` es la ubicación definida por RFC 9116. Puedes mantener un archivo en `/security.txt` por compatibilidad o redirigir esa ruta al archivo en `/.well-known/`; la ubicación definida sigue siendo `/.well-known/security.txt`.
 
 ## Incluye los campos obligatorios
 
