@@ -51,6 +51,10 @@ Abre [`index.html`](index.html) en un navegador moderno. No requiere compilació
 
 Revisa el archivo antes de publicarlo. Sustituye el contacto de ejemplo y comprueba la fecha de vencimiento, el dominio y los enlaces de política. Esta herramienta básica no es asesoría legal, una evaluación de seguridad ni una autorización para probar sistemas.
 
+### Guía gratuita
+
+Consulta la [guía práctica en español para publicar security.txt](docs/guia-security-txt-para-saas-pequeno.md), que explica la ruta, los campos obligatorios, el alcance y las comprobaciones de publicación.
+
 ### Plantillas opcionales de pago
 
 - [Paquete de tres respuestas bilingües — 10 USDC en Base](https://agentwallet.fluxapay.xyz/pay/paymentlink/pl_u_6MTdr8SsjSLDTbROvpayFq): recepción del reporte, aclaración segura y actualización o cierre.
