@@ -6,6 +6,8 @@ A small, standalone browser tool for creating a basic RFC 9116 `security.txt` fi
 
 ## Optional ready-to-use templates
 
+Preview the [free sample](https://indie-saas-security-kit.edisoncristoferlopez.chatgpt.site/free-sample.md) before buying; no account is required.
+
 For teams that want prepared disclosure replies and an operating workflow:
 
 - [Three-message English/Spanish response pack — 10 USDC on Base](https://agentwallet.fluxapay.xyz/pay/paymentlink/pl_u_6MTdr8SsjSLDTbROvpayFq): report received, safe clarification, and status or closure.
@@ -67,6 +69,8 @@ Consulta la [guía práctica en español para publicar security.txt](docs/guia-s
 También puedes consultar la [guía bilingüe para responder reportes de vulnerabilidad](https://indie-saas-security-kit.edisoncristoferlopez.chatgpt.site/vulnerability-report-response-templates.html#espanol).
 
 ### Plantillas opcionales de pago
+
+Consulta la [muestra gratis](https://indie-saas-security-kit.edisoncristoferlopez.chatgpt.site/free-sample.md) antes de comprar; no requiere registro.
 
 - [Paquete de tres respuestas bilingües — 10 USDC en Base](https://agentwallet.fluxapay.xyz/pay/paymentlink/pl_u_6MTdr8SsjSLDTbROvpayFq): recepción del reporte, aclaración segura y actualización o cierre.
 - [Kit completo de seis plantillas bilingües — 25 USDC en Base](https://agentwallet.fluxapay.xyz/pay/paymentlink/pl_jMslZWL_-01b4e6Xxv7SpYxr): alcance, plan de prueba seguro, reporte, triaje, corrección y página de contacto.
