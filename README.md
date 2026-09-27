@@ -29,6 +29,7 @@ Review the generated file before publishing. Replace the example contact and con
 ## Free resources
 
 - [Free disclosure-scope guide](https://indie-saas-security-kit.edisoncristoferlopez.chatgpt.site/vulnerability-disclosure-scope-guide.html)
+- [Practical vulnerability disclosure policy writing guide](docs/vulnerability-disclosure-policy-writing-guide.md)
 - [How to respond to a vulnerability report (English/Spanish)](https://indie-saas-security-kit.edisoncristoferlopez.chatgpt.site/vulnerability-report-response-templates.html)
 - [Practical security.txt setup for a small SaaS](docs/security-txt-setup-for-small-saas.md)
 - [Ignlab Launch listing](https://launch.ignlab.net/t/indie-saas-security-starter-kit)
