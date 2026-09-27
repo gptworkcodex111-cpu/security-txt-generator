@@ -29,6 +29,7 @@ Review the generated file before publishing. Replace the example contact and con
 ## Free resources
 
 - [Free disclosure-scope guide](https://indie-saas-security-kit.edisoncristoferlopez.chatgpt.site/vulnerability-disclosure-scope-guide.html)
+- [How to respond to a vulnerability report (English/Spanish)](https://indie-saas-security-kit.edisoncristoferlopez.chatgpt.site/vulnerability-report-response-templates.html)
 - [Practical security.txt setup for a small SaaS](docs/security-txt-setup-for-small-saas.md)
 - [Ignlab Launch listing](https://launch.ignlab.net/t/indie-saas-security-starter-kit)
 - [Vulnerability disclosure policy checklist (English)](docs/vulnerability-disclosure-policy-checklist.md)
@@ -54,6 +55,8 @@ Revisa el archivo antes de publicarlo. Sustituye el contacto de ejemplo y compru
 ### Guía gratuita
 
 Consulta la [guía práctica en español para publicar security.txt](docs/guia-security-txt-para-saas-pequeno.md), que explica la ruta, los campos obligatorios, el alcance y las comprobaciones de publicación.
+
+También puedes consultar la [guía bilingüe para responder reportes de vulnerabilidad](https://indie-saas-security-kit.edisoncristoferlopez.chatgpt.site/vulnerability-report-response-templates.html#espanol).
 
 ### Plantillas opcionales de pago
 
