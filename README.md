@@ -21,6 +21,10 @@ Review the generated file before publishing. Replace the example contact and con
 
 - [Free disclosure-scope guide](https://indie-saas-security-kit.edisoncristoferlopez.chatgpt.site/vulnerability-disclosure-scope-guide.html)
 - [Ignlab Launch listing](https://launch.ignlab.net/t/indie-saas-security-starter-kit)
+- [Three-message EN/ES response pack — 10 USDC on Base](https://walletapi.fluxapay.xyz/paymentlink/pl_u_6MTdr8SsjSLDTbROvpayFq)
+- [Complete six-template EN/ES kit — 25 USDC on Base](https://walletapi.fluxapay.xyz/paymentlink/pl_jMslZWL_-01b4e6Xxv7SpYxr)
+
+FluxA delivers the text resource after confirmed payment; checkout requires sign-in.
 - [Vulnerability disclosure policy checklist (English)](docs/vulnerability-disclosure-policy-checklist.md)
 - [Bilingual security starter kit and response pack](https://indie-saas-security-kit.edisoncristoferlopez.chatgpt.site/)
 
