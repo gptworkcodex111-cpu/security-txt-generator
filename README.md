@@ -57,6 +57,8 @@ Revisa el archivo antes de publicarlo. Sustituye el contacto de ejemplo y compru
 
 Consulta la [guía práctica en español para publicar security.txt](docs/guia-security-txt-para-saas-pequeno.md), que explica la ruta, los campos obligatorios, el alcance y las comprobaciones de publicación.
 
+- [Guía práctica para redactar una política de divulgación de vulnerabilidades](docs/guia-politica-divulgacion-vulnerabilidades.md)
+
 También puedes consultar la [guía bilingüe para responder reportes de vulnerabilidad](https://indie-saas-security-kit.edisoncristoferlopez.chatgpt.site/vulnerability-report-response-templates.html#espanol).
 
 ### Plantillas opcionales de pago
