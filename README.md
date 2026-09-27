@@ -20,6 +20,7 @@ Review the generated file before publishing. Replace the example contact and con
 ## More resources
 
 - [Free disclosure-scope guide](https://indie-saas-security-kit.edisoncristoferlopez.chatgpt.site/vulnerability-disclosure-scope-guide.html)
+- [Vulnerability disclosure policy checklist (English)](docs/vulnerability-disclosure-policy-checklist.md)
 - [Bilingual security starter kit and response pack](https://indie-saas-security-kit.edisoncristoferlopez.chatgpt.site/)
 
 The full kit and response pack are optional paid resources; the live page lists current contents, prices, and payment details. This project was prepared with AI assistance.
